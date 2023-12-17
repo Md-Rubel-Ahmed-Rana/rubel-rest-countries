@@ -10,6 +10,13 @@
   },
   "author": "Md Rubel Ahmed Rana",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Md-Rubel-Ahmed-Rana/rubel-rest-countries"
+  },
+  "bugs": {
+    "url": "https://github.com/Md-Rubel-Ahmed-Rana/rubel-rest-countries/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
